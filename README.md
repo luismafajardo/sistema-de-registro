@@ -2,4 +2,4 @@
 
 Estado del sistema: En construcción
 
-***npm install react***
+```npm install react```
